@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Implementación Bar/1.0.0": {
+        "runtime": {
+          "Implementación Bar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implementación Bar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

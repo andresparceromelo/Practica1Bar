@@ -1,0 +1,14 @@
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\bin\Debug\net8.0\Implementación Bar.exe
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\bin\Debug\net8.0\Implementación Bar.deps.json
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\bin\Debug\net8.0\Implementación Bar.runtimeconfig.json
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\bin\Debug\net8.0\Implementación Bar.dll
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\bin\Debug\net8.0\Implementación Bar.pdb
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\obj\Debug\net8.0\Implementación Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\obj\Debug\net8.0\Implementación Bar.AssemblyInfoInputs.cache
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\obj\Debug\net8.0\Implementación Bar.AssemblyInfo.cs
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\obj\Debug\net8.0\Implementación Bar.csproj.CoreCompileInputs.cache
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\obj\Debug\net8.0\Implementación Bar.dll
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\obj\Debug\net8.0\refint\Implementación Bar.dll
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\obj\Debug\net8.0\Implementación Bar.pdb
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\obj\Debug\net8.0\Implementación Bar.genruntimeconfig.cache
+C:\Users\Andres Bedoya\source\repos\Implementación Bar\Implementación Bar\obj\Debug\net8.0\ref\Implementación Bar.dll
